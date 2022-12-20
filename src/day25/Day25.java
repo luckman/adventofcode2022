@@ -4,7 +4,7 @@ import tools.InputReader;
 import java.util.List;
 
 public class Day25 {
-    private static final boolean SECOND_TASK = true;
+    private static final boolean SECOND_TASK = false;
 
     public void solve() {
         readInput();
